@@ -1,0 +1,3 @@
+Linea modificada HOLA MUNDO
+ Esto es una línea más abajo en el archivo, introducida con append, por lo que no hemos borrado el archivo en el proceso
+Nueva linea jejejejeje
